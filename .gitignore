@@ -1,6 +1,9 @@
 MyAirplaneFork-API
 MyAirplaneFork-Server
 
+PaperStraw-API
+PaperStraw-Server
+
 last-airplane
 build/
 .gradle/
